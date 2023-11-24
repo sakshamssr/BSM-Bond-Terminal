@@ -1,3 +1,7 @@
+export const config = {
+  runtime: 'edge',
+};
+
 const app = require("express")();
 
 let chrome = {};
@@ -52,3 +56,4 @@ app.listen(process.env.PORT || 3000, () => {
 });
 
 module.exports = app;
+
