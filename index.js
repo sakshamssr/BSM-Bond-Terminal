@@ -1,7 +1,3 @@
-export const config = {
-  runtime: 'edge',
-};
-
 const app = require("express")();
 
 let chrome = {};
