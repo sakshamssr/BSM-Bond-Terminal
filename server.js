@@ -1,5 +1,5 @@
 const express = require("express");
-const main = require('./index2.js');
+const main = require('./index.js');
 
 const app = express();
 

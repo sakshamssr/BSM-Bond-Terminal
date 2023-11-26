@@ -2,7 +2,7 @@
   "name": "puppeteer-vercel-master",
   "version": "1.0.0",
   "description": "Bonds Super Market-Bond-Terminal",
-  "main": "api/server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
